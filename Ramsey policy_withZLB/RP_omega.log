@@ -1,0 +1,338 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+ramsey_constraints: can only be used with ramsey_model or ramsey_policy
+Ramsey Problem: added 132 Multipliers.
+Found 132 equation(s).
+Found 264 FOC equation(s) for Ramsey Problem.
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Computing static model derivatives:
+ - order 1
+ - order 2
+ - order 3
+Processing outputs ...
+done
+Preprocessing completed.
+<a href="matlab: opentoline('C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega_steadystate.m',294,1)">294 </a>ys = zeros(NumberOfEndogenousVariables,1);                    % Initialization of ys (steady state).
+M_.endo_names
+ans =
+ch       
+Ce       
+Cb       
+H        
+Y        
+I        
+bigN     
+bigA     
+smallb   
+q        
+rk       
+infl     
+w_h      
+w_e      
+w_b      
+Rd       
+Ra       
+lam      
+mu       
+p        
+TL       
+mc       
+s        
+mgrowth  
+expinfl  
+smalld   
+gY       
+totC     
+u        
+keff     
+K        
+Kb       
+Ke       
+ptilde   
+nump     
+denp     
+wtilde   
+numw     
+denw     
+lz       
+lmp      
+lbk      
+log_y    
+log_I    
+gammag   
+alpha    
+rnot     
+CBBS     
+lqe      
+bdp      
+inflexp1 
+inflexp2 
+inflexp3 
+inflexp4 
+inflexp5 
+inflexp6 
+inflexp7 
+inflexp8 
+inflexp9 
+inflexp10
+inflexp11
+inflexp12
+inflexp13
+inflexp14
+inflexp15
+inflexp16
+inflexp17
+inflexp18
+inflexp19
+inflexp20
+inflexp21
+inflexp22
+inflexp23
+inflexp24
+inflexp25
+inflexp26
+inflexp27
+inflexp28
+inflexp29
+inflexp30
+inflexp31
+inflexp32
+inflexp33
+inflexp34
+inflexp35
+inflexp36
+inflexp37
+inflexp38
+inflexp39
+inflexp40
+Rexp1    
+Rexp2    
+Rexp3    
+Rexp4    
+Rexp5    
+Rexp6    
+Rexp7    
+Rexp8    
+Rexp9    
+Rexp10   
+Rexp11   
+Rexp12   
+Rexp13   
+Rexp14   
+Rexp15   
+Rexp16   
+Rexp17   
+Rexp18   
+Rexp19   
+Rexp20   
+Rexp21   
+Rexp22   
+Rexp23   
+Rexp24   
+Rexp25   
+Rexp26   
+Rexp27   
+Rexp28   
+Rexp29   
+Rexp30   
+Rexp31   
+Rexp32   
+Rexp33   
+Rexp34   
+Rexp35   
+Rexp36   
+Rexp37   
+Rexp38   
+Rexp39   
+Rexp40   
+util     
+welf     
+MULT_1   
+MULT_2   
+MULT_3   
+MULT_4   
+MULT_5   
+MULT_6   
+MULT_7   
+MULT_8   
+MULT_9   
+MULT_10  
+MULT_11  
+MULT_12  
+MULT_13  
+MULT_14  
+MULT_15  
+MULT_16  
+MULT_17  
+MULT_18  
+MULT_19  
+MULT_20  
+MULT_21  
+MULT_22  
+MULT_23  
+MULT_24  
+MULT_25  
+MULT_26  
+MULT_27  
+MULT_28  
+MULT_29  
+MULT_30  
+MULT_31  
+MULT_32  
+MULT_33  
+MULT_34  
+MULT_35  
+MULT_36  
+MULT_37  
+MULT_38  
+MULT_39  
+MULT_40  
+MULT_41  
+MULT_42  
+MULT_43  
+MULT_44  
+MULT_45  
+MULT_46  
+MULT_47  
+MULT_48  
+MULT_49  
+MULT_50  
+MULT_51  
+MULT_52  
+MULT_53  
+MULT_54  
+MULT_55  
+MULT_56  
+MULT_57  
+MULT_58  
+MULT_59  
+MULT_60  
+MULT_61  
+MULT_62  
+MULT_63  
+MULT_64  
+MULT_65  
+MULT_66  
+MULT_67  
+MULT_68  
+MULT_69  
+MULT_70  
+MULT_71  
+MULT_72  
+MULT_73  
+MULT_74  
+MULT_75  
+MULT_76  
+MULT_77  
+MULT_78  
+MULT_79  
+MULT_80  
+MULT_81  
+MULT_82  
+MULT_83  
+MULT_84  
+MULT_85  
+MULT_86  
+MULT_87  
+MULT_88  
+MULT_89  
+MULT_90  
+MULT_91  
+MULT_92  
+MULT_93  
+MULT_94  
+MULT_95  
+MULT_96  
+MULT_97  
+MULT_98  
+MULT_99  
+MULT_100 
+MULT_101 
+MULT_102 
+MULT_103 
+MULT_104 
+MULT_105 
+MULT_106 
+MULT_107 
+MULT_108 
+MULT_109 
+MULT_110 
+MULT_111 
+MULT_112 
+MULT_113 
+MULT_114 
+MULT_115 
+MULT_116 
+MULT_117 
+MULT_118 
+MULT_119 
+MULT_120 
+MULT_121 
+MULT_122 
+MULT_123 
+MULT_124 
+MULT_125 
+MULT_126 
+MULT_127 
+MULT_128 
+MULT_129 
+MULT_130 
+MULT_131 
+MULT_132 
+if system_dependent('IsDebugMode')==1, dbquit; end
+dynare RP_omega
+
+Configuring Dynare ...
+[mex] Generalized QZ.
+[mex] Sylvester equation solution.
+[mex] Kronecker products.
+[mex] Sparse kronecker products.
+[mex] Local state space iteration (second order).
+[mex] Bytecode evaluation.
+[mex] k-order perturbation solver.
+[mex] k-order solution simulation.
+[mex] Quasi Monte-Carlo sequence (Sobol).
+[mex] Markov Switching SBVAR.
+
+Using 64-bit preprocessor
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+ramsey_constraints: can only be used with ramsey_model or ramsey_policy
+Ramsey Problem: added 132 Multipliers.
+Found 132 equation(s).
+Found 264 FOC equation(s) for Ramsey Problem.
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Computing static model derivatives:
+ - order 1
+ - order 2
+ - order 3
+Processing outputs ...
+done
+Preprocessing completed.
+
+<a href="matlab: opentoline('C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega_steadystate.m',294,1)">294 </a>ys = zeros(NumberOfEndogenousVariables,1);                    % Initialization of ys (steady state).
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('eval')" style="font-weight:bold">eval</a>
+Undefined function or variable 'MULT_1'.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('RP_omega_steadystate', 'C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega_steadystate.m', 297)" style="font-weight:bold">RP_omega_steadystate</a> (<a href="matlab: opentoline('C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega_steadystate.m',297,0)">line 297</a>)
+  eval(['ys(' int2str(i) ') = ' varname ';']);                %    Get the steady state value of this variable.
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaluate_steady_state_file', 'C:\dynare\4.5.7\matlab\evaluate_steady_state_file.m', 52)" style="font-weight:bold">evaluate_steady_state_file</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\evaluate_steady_state_file.m',52,0)">line 52</a>)
+    [ys,check] = h_steadystate(ys_init, exo_ss);
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaluate_steady_state', 'C:\dynare\4.5.7\matlab\evaluate_steady_state.m', 212)" style="font-weight:bold">evaluate_steady_state</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\evaluate_steady_state.m',212,0)">line 212</a>)
+    [ys,params,info] = evaluate_steady_state_file(ys_init,exo_ss,M, options,steadystate_check_flag);
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('resid', 'C:\dynare\4.5.7\matlab\resid.m', 66)" style="font-weight:bold">resid</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\resid.m',66,0)">line 66</a>)
+        evaluate_steady_state(oo_.steady_state,M_,options_,oo_,0);
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('RP_omega', 'C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega.m', 1840)" style="font-weight:bold">RP_omega</a> (<a href="matlab: opentoline('C:\Users\Farkas\Dropbox\PhD\Research\Final\Ramsey policy_withZLB\RP_omega.m',1840,0)">line 1840</a>)
+resid;
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynare', 'C:\dynare\4.5.7\matlab\dynare.m', 235)" style="font-weight:bold">dynare</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\dynare.m',235,0)">line 235</a>)
+evalin('base',fname) ;} 

@@ -1,0 +1,2 @@
+Estimated elasticity between the long term yield and inflation expectations: 
+est_elas = -4.2801;

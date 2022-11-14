@@ -1,0 +1,484 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 133 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0.047654
+Equation number 2 : 0
+Equation number 3 : 9.3302e-05
+Equation number 4 : -0.0033431
+Equation number 5 : 0
+Equation number 6 : 0
+Equation number 7 : -0.4128
+Equation number 8 : 1.5793
+Equation number 9 : 0.42368
+Equation number 10 : 0
+Equation number 11 : 0
+Equation number 12 : 0.26067
+Equation number 13 : 0.31126
+Equation number 14 : 0
+Equation number 15 : -0.027688
+Equation number 16 : 1.0335
+Equation number 17 : 1.6798e-05
+Equation number 18 : 3.9196e-05
+Equation number 19 : 0.0028672
+Equation number 20 : -5.0728
+Equation number 21 : 0
+Equation number 22 : 0
+Equation number 23 : 0.0018664
+Equation number 24 : -0.14212
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 4.4709
+Equation number 29 : 0
+Equation number 30 : 0
+Equation number 31 : 3.295
+Equation number 32 : 5.0226
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : 0
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0.12776
+Equation number 42 : 9.9974
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : -0.040427
+Equation number 47 : -3.1627
+Equation number 48 : 0
+Equation number 49 : 0
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 0
+Equation number 53 : 0
+Equation number 54 : 0
+Equation number 55 : 0
+Equation number 56 : 0
+Equation number 57 : 0
+Equation number 58 : 0
+Equation number 59 : 0
+Equation number 60 : 0
+Equation number 61 : 0
+Equation number 62 : 0
+Equation number 63 : 0
+Equation number 64 : 0
+Equation number 65 : 0
+Equation number 66 : 0
+Equation number 67 : 0
+Equation number 68 : 0
+Equation number 69 : 0
+Equation number 70 : 0
+Equation number 71 : 0
+Equation number 72 : 0
+Equation number 73 : 0
+Equation number 74 : 0
+Equation number 75 : 0
+Equation number 76 : 0
+Equation number 77 : 0
+Equation number 78 : 0
+Equation number 79 : 0
+Equation number 80 : 0
+Equation number 81 : 0
+Equation number 82 : 0
+Equation number 83 : 0
+Equation number 84 : 0
+Equation number 85 : 0
+Equation number 86 : 0
+Equation number 87 : 0
+Equation number 88 : 0
+Equation number 89 : 0
+Equation number 90 : 0
+Equation number 91 : 0
+Equation number 92 : 0
+Equation number 93 : 0
+Equation number 94 : 0
+Equation number 95 : 0
+Equation number 96 : 0
+Equation number 97 : 0
+Equation number 98 : 0
+Equation number 99 : 0
+Equation number 100 : 0
+Equation number 101 : 0
+Equation number 102 : 0
+Equation number 103 : 0
+Equation number 104 : 0
+Equation number 105 : 0
+Equation number 106 : 0
+Equation number 107 : 0
+Equation number 108 : 0
+Equation number 109 : 0
+Equation number 110 : 0
+Equation number 111 : 0
+Equation number 112 : 0
+Equation number 113 : 0
+Equation number 114 : 0
+Equation number 115 : 0
+Equation number 116 : 0
+Equation number 117 : 0
+Equation number 118 : 0
+Equation number 119 : 0
+Equation number 120 : 0
+Equation number 121 : 0
+Equation number 122 : 0
+Equation number 123 : 0
+Equation number 124 : 0
+Equation number 125 : 0
+Equation number 126 : 0
+Equation number 127 : 0
+Equation number 128 : 0
+Equation number 129 : 0
+Equation number 130 : 0
+Equation number 131 : 0.14785
+Equation number 132 : 0
+Equation number 133 : 0
+
+
+[Warning: Some of the parameters have no value (CBBSp) when using steady. If these parameters are not initialized in a steadystate file or a steady_state_model-block, Dynare
+may not be able to solve the model...] 
+
+resid: The initial values for the steady state of the following variables are complex:
+ch       
+Ce       
+Cb       
+Y        
+I        
+bigN     
+bigA     
+rk       
+w_h      
+w_e      
+w_b      
+Ra       
+lam      
+p        
+TL       
+mc       
+smalld   
+totC     
+keff     
+K        
+Kb       
+Ke       
+nump     
+denp     
+wtilde   
+numw     
+denw     
+log_y    
+log_I    
+gammag   
+util     
+welf     
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0.047654
+Equation number 2 : 0
+Equation number 3 : 9.3302e-05
+Equation number 4 : -0.0033431
+Equation number 5 : 0
+Equation number 6 : 0
+Equation number 7 : -0.4128
+Equation number 8 : 1.5793
+Equation number 9 : 0.42368
+Equation number 10 : 0
+Equation number 11 : 0
+Equation number 12 : 0.26067
+Equation number 13 : 0.31126
+Equation number 14 : 0
+Equation number 15 : -0.027688
+Equation number 16 : 1.0335
+Equation number 17 : 1.6798e-05
+Equation number 18 : 3.9196e-05
+Equation number 19 : 0.0028672
+Equation number 20 : -5.0728
+Equation number 21 : 0
+Equation number 22 : 0
+Equation number 23 : 0.0018664
+Equation number 24 : -0.14212
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 4.4709
+Equation number 29 : 0
+Equation number 30 : 0
+Equation number 31 : 3.295
+Equation number 32 : 5.0226
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : 0
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0.12776
+Equation number 42 : 9.9974
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : -0.040427
+Equation number 47 : -3.1627
+Equation number 48 : 0
+Equation number 49 : 0
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 0
+Equation number 53 : 0
+Equation number 54 : 0
+Equation number 55 : 0
+Equation number 56 : 0
+Equation number 57 : 0
+Equation number 58 : 0
+Equation number 59 : 0
+Equation number 60 : 0
+Equation number 61 : 0
+Equation number 62 : 0
+Equation number 63 : 0
+Equation number 64 : 0
+Equation number 65 : 0
+Equation number 66 : 0
+Equation number 67 : 0
+Equation number 68 : 0
+Equation number 69 : 0
+Equation number 70 : 0
+Equation number 71 : 0
+Equation number 72 : 0
+Equation number 73 : 0
+Equation number 74 : 0
+Equation number 75 : 0
+Equation number 76 : 0
+Equation number 77 : 0
+Equation number 78 : 0
+Equation number 79 : 0
+Equation number 80 : 0
+Equation number 81 : 0
+Equation number 82 : 0
+Equation number 83 : 0
+Equation number 84 : 0
+Equation number 85 : 0
+Equation number 86 : 0
+Equation number 87 : 0
+Equation number 88 : 0
+Equation number 89 : 0
+Equation number 90 : 0
+Equation number 91 : 0
+Equation number 92 : 0
+Equation number 93 : 0
+Equation number 94 : 0
+Equation number 95 : 0
+Equation number 96 : 0
+Equation number 97 : 0
+Equation number 98 : 0
+Equation number 99 : 0
+Equation number 100 : 0
+Equation number 101 : 0
+Equation number 102 : 0
+Equation number 103 : 0
+Equation number 104 : 0
+Equation number 105 : 0
+Equation number 106 : 0
+Equation number 107 : 0
+Equation number 108 : 0
+Equation number 109 : 0
+Equation number 110 : 0
+Equation number 111 : 0
+Equation number 112 : 0
+Equation number 113 : 0
+Equation number 114 : 0
+Equation number 115 : 0
+Equation number 116 : 0
+Equation number 117 : 0
+Equation number 118 : 0
+Equation number 119 : 0
+Equation number 120 : 0
+Equation number 121 : 0
+Equation number 122 : 0
+Equation number 123 : 0
+Equation number 124 : 0
+Equation number 125 : 0
+Equation number 126 : 0
+Equation number 127 : 0
+Equation number 128 : 0
+Equation number 129 : 0
+Equation number 130 : 0
+Equation number 131 : 0.14785
+Equation number 132 : 0
+Equation number 133 : 0
+
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print_info', 'C:\dynare\4.5.7\matlab\print_info.m', 76)" style="font-weight:bold">print_info</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\print_info.m',76,0)">line 76</a>)
+The steadystate file did not compute the steady state
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('steady', 'C:\dynare\4.5.7\matlab\steady.m', 104)" style="font-weight:bold">steady</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\steady.m',104,0)">line 104</a>)
+    print_info(info,options_.noprint, options_);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('RP_omega_no_mon', 'C:\Users\Farkas\Dropbox\PhD\Research\QE effects\Bank Default\RP_omega_no_mon.m', 916)" style="font-weight:bold">RP_omega_no_mon</a> (<a href="matlab: opentoline('C:\Users\Farkas\Dropbox\PhD\Research\QE effects\Bank Default\RP_omega_no_mon.m',916,0)">line 916</a>)
+steady;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynare', 'C:\dynare\4.5.7\matlab\dynare.m', 235)" style="font-weight:bold">dynare</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\dynare.m',235,0)">line 235</a>)
+evalin('base',fname) ;
+} 
+smallbtemp
+
+smallbtemp =
+
+    3.8000
+
+-oo_.irfs.TL_z_shk
+
+ans =
+
+  Columns 1 through 17
+
+   -0.0015   -0.0016   -0.0023   -0.0034   -0.0047   -0.0063   -0.0078   -0.0092   -0.0103   -0.0111   -0.0115   -0.0115   -0.0111   -0.0106   -0.0098   -0.0089   -0.0079
+
+  Columns 18 through 34
+
+   -0.0070   -0.0061   -0.0054   -0.0047   -0.0042   -0.0038   -0.0034   -0.0032   -0.0030   -0.0029   -0.0028   -0.0026   -0.0026   -0.0024   -0.0023   -0.0022   -0.0021
+
+  Columns 35 through 40
+
+   -0.0020   -0.0018   -0.0017   -0.0016   -0.0014   -0.0013
+
+[Warning: A value of class "matlab.internal.video.PluginManager" was indexed with no subscripts specified. Currently the result of this operation is the indexed value
+itself, but in a future release, it will be an error.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.VideoReader/createChannel', 'C:\Program Files\MATLAB\R2018b\toolbox\shared\multimedia\+matlab\+internal\VideoReader.m', 486)" style="font-weight:bold">matlab.internal.VideoReader/createChannel</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\shared\multimedia\+matlab\+internal\VideoReader.m',486,0)">line 486</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.VideoReader', 'C:\Program Files\MATLAB\R2018b\toolbox\shared\multimedia\+matlab\+internal\VideoReader.m', 185)" style="font-weight:bold">matlab.internal.VideoReader</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\shared\multimedia\+matlab\+internal\VideoReader.m',185,0)">line 185</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VideoReader/init', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\@VideoReader\VideoReader.m', 608)" style="font-weight:bold">VideoReader/init</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\@VideoReader\VideoReader.m',608,0)">line 608</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VideoReader', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\@VideoReader\VideoReader.m', 176)" style="font-weight:bold">VideoReader</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\@VideoReader\VideoReader.m',176,0)">line 176</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('finfo>getVideoInfo', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m', 205)" style="font-weight:bold">finfo>getVideoInfo</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m',205,0)">line 205</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('finfo>openAsMultimediaFile', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m', 194)" style="font-weight:bold">finfo>openAsMultimediaFile</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m',194,0)">line 194</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('finfo', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m', 79)" style="font-weight:bold">finfo</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\finfo.m',79,0)">line 79</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('open', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\open.m', 115)" style="font-weight:bold">open</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\general\open.m',115,0)">line 115</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('uiopen', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uiopen.m', 175)" style="font-weight:bold">uiopen</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uiopen.m',175,0)">line 175</a>)] 
+%% Technology shock
+figure
+subplot(3,3,1)
+plot([1:40],-oo_.irfs.Y_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$Y_t$, Output','interpreter','latex')
+% ylim([-0.; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,2)
+plot([1:40],-oo_.irfs.I_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$I_t$, Investment','interpreter','latex')
+% ylim([-0.; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+
+subplot(3,3,3)
+plot([1:40],-oo_.irfs.q_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$q_t$, Price of Capital','interpreter','latex')
+% ylim([-0.; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,4)
+plot([1:40],-oo_.irfs.bigN_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$N_t$, Entrpreneurial Net Worth','interpreter','latex')
+% ylim([-0.; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,5)
+plot([1:40],-oo_.irfs.bigA_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$A_t$, Bank Capital','interpreter','latex')
+% ylim([0; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,6)
+plot([1:40],-oo_.irfs.BVaR_z_shk,'color',[0 0 0],'LineWidth',1);
+title('')
+title('$\Gamma_t$, Bank Default Probability','interpreter','latex')
+% ylim([0; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,7)
+plot([1:40],-oo_.irfs.TL_z_shk,'color',[0 0 0],'LineWidth',1);
+title('')
+title('Total Lending','interpreter','latex')
+% ylim([0; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,8)
+plot([1:40],-oo_.irfs.Rd_z_shk,'color',[0 0 0],'LineWidth',1);
+title('')
+title('$R_d$, Policy Rate','interpreter','latex')
+% ylim([0; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+subplot(3,3,9)
+plot([1:40],-oo_.irfs.infl_z_shk,'color',[0 0 0],'LineWidth',1);
+title('$\pi_t$, Inlfation','interpreter','latex')
+% ylim([-0.; 0.25])
+ylabel('%, deviation from SS')
+xlabel('Quarters')
+
+sgtitle('Impulse Responses to a Nositive Technology Shock in Normal Times');
+sgt.FontSize = 14; sgt.FontWeight = 'Bold';
+set(gcf,'color','w');
+% Enlarge figure to full screen.
+set(gcf, 'Units', 'Normalized', 'OuterPosition', [0 0 1 1]);
+% Get rid of tool bar and pulldown menus that are along top of figure.
+% set(gcf, 'Toolbar', 'none', 'Menu', 'none');
+clear all
+close all
+clc
+addpath('c:\dynare\4.5.7\matlab');
+addpath('C:\Users\Farkas\Dropbox\PhD\Research\QE effects\Full calibration\export_fig-master');
+dynare RP_omega
+
+Configuring Dynare ...
+[mex] Generalized QZ.
+[mex] Sylvester equation solution.
+[mex] Kronecker products.
+[mex] Sparse kronecker products.
+[mex] Local state space iteration (second order).
+[mex] Bytecode evaluation.
+[mex] k-order perturbation solver.
+[mex] k-order solution simulation.
+[mex] Quasi Monte-Carlo sequence (Sobol).
+[mex] Markov Switching SBVAR.
+
+Using 64-bit preprocessor
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 133 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Processing outputs ...
+done
+Preprocessing completed.
+
